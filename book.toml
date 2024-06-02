@@ -1,0 +1,8 @@
+[book]
+authors = ["Google", "Will 保哥"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Google 工程實踐 (Google Engineering Practices Documentation)"
+
+[eng-practices.epub]
